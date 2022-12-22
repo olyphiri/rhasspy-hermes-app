@@ -1,5 +1,5 @@
 ##################
-Rhasspy Hermes App
+Peter Olympus Phiri code 2 activated
 ##################
 
 .. image:: https://github.com/rhasspy/rhasspy-hermes-app/workflows/Tests/badge.svg
@@ -22,7 +22,7 @@ Rhasspy Hermes App
    :target: https://github.com/rhasspy/rhasspy-hermes-app/blob/master/LICENSE
    :alt: License
 
-Rhasspy Hermes App is a helper library to create voice apps for Rhasspy_ in Python using the `Hermes protocol`_
+Rhasspy Hermes App is a helper library to create voice apps for Rhasspy_ in Python using the `Hs protocol`_apt add peter 
 
 .. _Rhasspy: https://rhasspy.readthedocs.io/en/latest/
 
